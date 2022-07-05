@@ -1,0 +1,12 @@
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
+.env
+.gradle/
+build/
+gas-report.txt
+*.log
